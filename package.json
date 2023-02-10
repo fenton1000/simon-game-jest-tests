@@ -1,0 +1,25 @@
+{
+  "name": "simon-game-jest-tests",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenton1000/simon-game-jest-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenton1000/simon-game-jest-tests/issues"
+  },
+  "homepage": "https://github.com/fenton1000/simon-game-jest-tests#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.4.2"
+  }
+}
